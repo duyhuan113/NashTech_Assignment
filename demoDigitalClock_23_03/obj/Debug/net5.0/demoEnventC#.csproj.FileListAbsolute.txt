@@ -1,0 +1,16 @@
+F:\NASHTECH\demoEnventC#\bin\Debug\net5.0\demoEnventC#.exe
+F:\NASHTECH\demoEnventC#\bin\Debug\net5.0\demoEnventC#.deps.json
+F:\NASHTECH\demoEnventC#\bin\Debug\net5.0\demoEnventC#.runtimeconfig.json
+F:\NASHTECH\demoEnventC#\bin\Debug\net5.0\demoEnventC#.runtimeconfig.dev.json
+F:\NASHTECH\demoEnventC#\bin\Debug\net5.0\demoEnventC#.dll
+F:\NASHTECH\demoEnventC#\bin\Debug\net5.0\ref\demoEnventC#.dll
+F:\NASHTECH\demoEnventC#\bin\Debug\net5.0\demoEnventC#.pdb
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\demoEnventC#.csprojAssemblyReference.cache
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\demoEnventC#.GeneratedMSBuildEditorConfig.editorconfig
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\demoEnventC#.AssemblyInfoInputs.cache
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\demoEnventC#.AssemblyInfo.cs
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\demoEnventC#.csproj.CoreCompileInputs.cache
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\demoEnventC#.dll
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\ref\demoEnventC#.dll
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\demoEnventC#.pdb
+F:\NASHTECH\demoEnventC#\obj\Debug\net5.0\demoEnventC#.genruntimeconfig.cache
