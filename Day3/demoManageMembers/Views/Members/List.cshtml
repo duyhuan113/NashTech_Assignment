@@ -1,0 +1,49 @@
+@model ICollection<demoManageMembers.Models.Member>
+@{
+    ViewData["Title"] = "List";
+    int index =0;
+}
+
+@using(Html.BeginForm("Search","Members",FormMethod.Post)) {
+    <div class="form-row align-items-center">
+    <div class="col-auto">
+      <input type="text" name="SearchString" class="form-control mb-2" id="Search" placeholder="Search By Name ">
+    </div>
+    <div class="col-auto">
+      <button type="submit" class="btn btn-primary mb-2">Submit</button>
+    </div>
+  </div>
+}
+</hr>
+
+@Html.ActionLink("Create", "Create", "Members")
+</hr>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Birthday</th>
+            <th>Phone</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Gender</td>
+                <td>@item.Birthday</td>
+                <td>@item.Phone</td>
+                <td>@Html.ActionLink("Details", "Details", "Members", new { i=index },null)</td>
+                <td>@Html.ActionLink("Delete", "Delete", "Members", new { i=index },null)</td>
+                <td>@Html.ActionLink("Edit", "EditForm", "Members", new { i=index },null)</td>
+            </tr>
+            ++index;
+        }
+    </tbody>
+</table>
