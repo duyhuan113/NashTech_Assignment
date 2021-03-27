@@ -8,11 +8,11 @@ namespace demoManageMembers.Models
     public class MemberHandler : IMemberHandler
     {
        private static List<Member> members = new List<Member>(){
-            new Member() { Name="Truong Cong Vinh",Phone="0123654789",Birthday="18/12/2001",Gender="Male",Email="asd12@gmail.com",BirthPlace="Hai Phong"}
-            ,new Member() { Name="Truong Cong Minh",Phone="0123654789",Birthday="18/12/2000",Gender="Male",Email="asd2@gmail.com",BirthPlace="Ha Noi"}
-            ,new Member() { Name="Truong Cong Tuan",Phone="0123654789",Birthday="18/12/1999",Gender="Male",Email="asd3@gmail.com" ,BirthPlace="Hai Phong"}
-            ,new Member() { Name="Truong Cong Tu",Phone="0123654789",Birthday="18/12/1998",Gender="Male",Email="asd4@gmail.com",BirthPlace="Ha Noi"}
-            ,new Member() { Name="Truong Cong Duc",Phone="0123654789",Birthday="18/12/2000",Gender="Male",Email="asd5@gmail.com",BirthPlace="Ha Nam"}
+            new Member() { Name="Bui Duy Vinh",Phone="987654321",Birthday="11/03/2001",Gender="Male",Email="buihuana5@gmail.com",BirthPlace="Hai Phong"}
+            ,new Member() { Name="Bui Duy Minh",Phone="987654321",Birthday="11/03/2000",Gender="Male",Email="buihuana52@gmail.com",BirthPlace="Ha Noi"}
+            ,new Member() { Name="Bui Duy Tuan",Phone="987654321",Birthday="11/03/1999",Gender="Male",Email="buihuana53@gmail.com" ,BirthPlace="Hai Phong"}
+            ,new Member() { Name="Bui Duy Tu",Phone="987654321",Birthday="11/03/1998",Gender="Male",Email="buihuana54@gmail.com",BirthPlace="Lao Cai"}
+            ,new Member() { Name="Bui Duy Duc",Phone="987654321",Birthday="11/03/2000",Gender="Male",Email="buihuana55@gmail.com",BirthPlace="Ha Nam"}
             };
         public List<Member> GetMembersByName(string searchString){
               if (String.IsNullOrEmpty(searchString))

@@ -15665,3 +15665,13 @@
     {
       "FilePath": "f:\\NASHTECH\\Assignment\\Day3\\demoManageMembers\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\NASHTECH\\Assignment\\Day3\\demoManageMembers\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
