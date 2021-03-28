@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NASHTECH\\demoManageMembers\\demoManageMembers.csproj": {}
+    "F:\\NASHTECH\\Assignment\\Day3\\demoManageMembers\\demoManageMembers.csproj": {}
   },
   "projects": {
-    "F:\\NASHTECH\\demoManageMembers\\demoManageMembers.csproj": {
+    "F:\\NASHTECH\\Assignment\\Day3\\demoManageMembers\\demoManageMembers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NASHTECH\\demoManageMembers\\demoManageMembers.csproj",
+        "projectUniqueName": "F:\\NASHTECH\\Assignment\\Day3\\demoManageMembers\\demoManageMembers.csproj",
         "projectName": "demoManageMembers",
-        "projectPath": "F:\\NASHTECH\\demoManageMembers\\demoManageMembers.csproj",
+        "projectPath": "F:\\NASHTECH\\Assignment\\Day3\\demoManageMembers\\demoManageMembers.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "F:\\NASHTECH\\demoManageMembers\\obj\\",
+        "outputPath": "F:\\NASHTECH\\Assignment\\Day3\\demoManageMembers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
